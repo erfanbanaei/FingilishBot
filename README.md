@@ -22,7 +22,7 @@ You can fill in your details in the links below
  - [Bot_Token](https://t.me/BotFather)
 
 
-## Screenshots
+## Screenshot
 
 ![Screenshot](https://user-images.githubusercontent.com/75321483/146647144-52f70e96-19c7-47be-9f48-0659a9f38d74.jpg)
 
